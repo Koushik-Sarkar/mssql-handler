@@ -1,0 +1,12 @@
+# Dependency directory
+node_modules
+
+# Debug log from npm
+npm-debug.log
+
+#LintFiles
+.eslintrc.js
+.eslintrc.json
+
+#Distributed Lib
+lib/*
